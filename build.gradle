@@ -20,12 +20,12 @@ useTestNG()
 
 task runTests (type: Test){
  }
-/*test{
+test{
     useTestNG(){
         useDefaultListeners = true                                              //main test
     }
 }
-*/
+
 
 /*test{
     useTestNG(){
