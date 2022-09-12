@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="CalculatorTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2022-09-12T07:11:32" hostname="TestVagrants-MacBook-Pro.local" time="0.008">
+  <properties/>
+  <testcase name="testGroupPrint1" classname="CalculatorTest" time="0.001"/>
+  <testcase name="testGroupPrint2" classname="CalculatorTest" time="0.001"/>
+  <system-out><![CDATA[Inside Before setup 1 Method
+Inside easy group 1
+Inside Before setup 1 Method
+Inside easy group 2
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

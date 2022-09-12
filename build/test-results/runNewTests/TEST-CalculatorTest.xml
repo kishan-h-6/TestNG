@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="CalculatorTest" tests="13" skipped="0" failures="0" errors="0" timestamp="2022-08-30T05:25:30" hostname="TestVagrants-MacBook-Pro.local" time="0.039">
+  <properties/>
+  <testcase name="testAdditionOfTwoNumbers" classname="CalculatorTest" time="0.002"/>
+  <testcase name="testAdditionOfTwoNumbers[0](1, 2, 3)" classname="CalculatorTest" time="0.002"/>
+  <testcase name="testAdditionOfTwoNumbers[1](2, 3, 5)" classname="CalculatorTest" time="0.0"/>
+  <testcase name="testAdditionOfTwoNumbers[2](4, 5, 9)" classname="CalculatorTest" time="0.0"/>
+  <testcase name="testForException" classname="CalculatorTest" time="0.0"/>
+  <testcase name="testGroupPrint1" classname="CalculatorTest" time="0.0"/>
+  <testcase name="testGroupPrint2" classname="CalculatorTest" time="0.0"/>
+  <testcase name="testGroupPrint3" classname="CalculatorTest" time="0.001"/>
+  <testcase name="testGroupPrint4" classname="CalculatorTest" time="0.0"/>
+  <testcase name="testMultiplicationOfTwoNumbers" classname="CalculatorTest" time="0.002"/>
+  <testcase name="testPercentage" classname="CalculatorTest" time="0.001"/>
+  <testcase name="testSquareOfNumber" classname="CalculatorTest" time="0.001"/>
+  <testcase name="testSubtractionOfTwoNumbers" classname="CalculatorTest" time="0.001"/>
+  <system-out><![CDATA[Inside Before Method
+Addition
+kiki
+Inside Before Method
+Inside Before Method
+Inside Before Method
+Inside Before Method
+Inside Before Method
+Inside easy group 1
+Inside Before Method
+Inside easy group 2
+Inside Before Method
+Inside hard group 3
+Inside Before Method
+Inside easy group 2
+Inside Before Method
+Multiplication
+Inside Before Method
+Percentage
+Inside Before Method
+Sqaure
+Inside Before Method
+Subtraction
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
